@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.datastructures.linkedlist.singlelinkedlist","l":"LinkedList"},{"p":"com.datastructures.linkedlist.singlelinkedlist","l":"Node"}];updateSearchResults();
